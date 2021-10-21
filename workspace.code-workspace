@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"ms-dotnettools.csharp",
+			"ionide.ionide-fsharp",
+			"visualstudioexptteam.vscodeintellicode",
+			"vscode-icons-team.vscode-icons",
+			"ms-vscode.vs-keybindings"
+		],
+	}
+}
