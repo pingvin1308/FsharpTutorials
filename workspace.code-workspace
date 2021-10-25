@@ -11,7 +11,8 @@
 			"ionide.ionide-fsharp",
 			"visualstudioexptteam.vscodeintellicode",
 			"vscode-icons-team.vscode-icons",
-			"ms-vscode.vs-keybindings"
+			"ms-vscode.vs-keybindings",
+			"paolodellepiane.fantomas-fmt"
 		],
 	}
 }
