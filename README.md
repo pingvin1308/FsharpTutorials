@@ -10,3 +10,11 @@ Let's study together :)
 
 Useful material:
 https://docs.microsoft.com/en-us/learn/paths/fsharp-first-steps/ - nice F# tutorial that describes all basic concepts.
+
+Programs:
+- [Guessing game](./GuessingGame/README.md)
+
+
+Additions:
+- [Monoid - introduction](https://fsharpforfunandprofit.com/posts/monoids-without-tears/)
+- [Monoid - part 2](https://fsharpforfunandprofit.com/posts/monoids-part2/)
